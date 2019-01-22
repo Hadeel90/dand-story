@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75.707" height="14.707" viewBox="0 0 75.707 14.707">
+  <title>Asset 1</title>
+  <g>
+    <line y1="7.354" x2="75" y2="7.354" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <polyline points="68 0.354 75 7.354 68 14.354" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  </g>
+</svg>
