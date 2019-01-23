@@ -1,3 +1,7 @@
+::selection {
+    background: yellow;
+}
+
 body {
 	margin:0;
 	font-family:'Roboto Slab',Helvetica,sans-serif;
