@@ -91,7 +91,8 @@ $(document).ready(function() {
         $(".content").html(title + paragraphs);
         
         // image source
-        $(".pageImage img").attr("src", pagesInfo[i].image);
+        
+        $(".pageImage").html("<img src=\"" + pagesInfo[i].image + "\" alt=\"Slide Image\" width=\"500\">");
     }
     
 
